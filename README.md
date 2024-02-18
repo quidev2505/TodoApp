@@ -1,4 +1,4 @@
-![image](https://github.com/quidev2505/TodoApp/assets/116015910/59ce0837-b8b0-4dea-9b71-93ab81c3e13a)# Todo Web App
+# Todo Web App
 ## Short Description
 This project can using for people want to do work with "strict mode". They can know today need done what work.
 ## Technology using in Project
